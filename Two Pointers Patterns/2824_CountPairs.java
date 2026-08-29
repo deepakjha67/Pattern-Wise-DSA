@@ -5,7 +5,7 @@
 import java.util.Collections;
 import java.util.List;
 
-public class Soultion {
+public class Solution {
     public int countPairs(List<Integer> nums, int target) {
         Collections.sort(nums);
         int i = 0;
